@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BingoNode/docker-ci/issues"
   },
-  "homepage": "https://github.com/BingoNode/docker-ci#readme"
+  "homepage": "https://github.com/BingoNode/docker-ci#readme",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
 }
